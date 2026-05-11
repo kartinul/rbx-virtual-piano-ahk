@@ -2,6 +2,10 @@
 
 An AutoHotkey v2 script that plays MIDI files on Roblox piano keyboards automatically. Parses raw `.mid` files, maps notes to keyboard keys, and handles black keys via Shift combos — no external dependencies required.
 
+## Demo
+https://youtu.be/C0McPb6AQV0
+
+
 ## Requirements
 
 - [AutoHotkey v2.0+](https://www.autohotkey.com/)
